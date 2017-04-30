@@ -1,4 +1,4 @@
-1. Then just download the project
+1. Download the project
 
 2. You need to have IntelliJ or Netbeans or Eclipse like java IDE.
 
