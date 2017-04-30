@@ -1,13 +1,5 @@
-# StaticCodeAnalysis
-1. If your machine doesn’t have java installed, install java in your computer.
-	(you can check typing “java -version” in command prompt)
-     -> If you don’t have java installed, this is how to install
-	-> https://java.com/en/download/help/windows_manual_download.xml 
-
-2. Then just download the project
-
-3. You need to have IntelliJ or Netbeans or Eclipse like java IDE.
-
-4. The rest of things are here in my blog post
+Then just download the project
+You need to have IntelliJ or Netbeans or Eclipse like java IDE.
+The rest of things are here in my blog post
 
 https://cybergeeksl.blogspot.com/2017/04/static-code-analysis-using-findbugs.html
